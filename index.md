@@ -1,91 +1,105 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aaron Chiang CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aaron Chiang
+Technical Writer transforming technical concepts into understandable content
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="acheo022@uottawa.ca">acheo022@uottawa.ca</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+## About me
 
-## Currently
+Language Matters!
 
-Standing on the shoulders of giants
+Communicator with extensive editing experience, proponent of plain language.
+Strives for a clear, effective and succinct writing style to ensure complex concepts are accessible and understandable.
 
-### Specialized in
+## Experienced in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Creating how-to videos, end-user documentation, release notes, translation.
+Currently also working on creating UX copy and designing a documentation portal at work
 
+## Selected professional experience
 
-### Research interests
+`2021 - present`
+__Technical Writer, <u>movingimage EVP GmbH</u>__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2018 - 2021`
+__Blockchain Technical Writer, <u>Tymlez BV</u>__
+- drafted and updated customer-facing  product manuals, including installation, development and user guides
+- created an entire knowledge base for a specific Google Cloud Platform solution
+- improved existing  wiki articles and developer readme’s
+- worked with docs as code approach
 
+`2017 - 2018`
+__First-level support agent for eProcurement, <u>Poet GmbH</u>__
+- guided and supported users of a complex e-procurement suite in English, German, and French
+- performed configuration changes for customers
+- initiated troubleshooting and involved second-level support where required.
+
+`2017`
+__Editorial Student Assistant, <u>SAP SE</u>__
+- maintained and edited SAP Fiori Design Guidelines articles
+- created UX-related blog posts in active collaboration with designers, developers and other stakeholders.
+
+`2015 - 2017`
+__User Assistance Student, <u>SAP SE</u>__
+- supported user assistance colleagues to implement content changes
+- created infographics for customer-facing application
+- carried out language editing for a few software test cases and content testing
 
 ## Education
+`2014 - 2017`
+__Master of Arts, Chinese Studies, Universität Heidelberg__
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012 - 2013`
+__Associate Bachelor's Degree (DEUG), Institut national des langues et civilisations orientales, Paris__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2008 - 2012`
+__Bachelor of Arts, French-English Translation, University of Ottawa__
 
-- Sizar
+## Certificates
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2014`
+__Certificate - Translating Chinese into English, National Taiwan University__
 
-- Fellow
+## Selected Works
 
+`2021 to present`
+- Onboarding videos (voiceover, script and content) : https://onboarding.movingimage.com/
+- Release notes and documentation: https://doc.movingimage.com/
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019 to 2020`
+- Knowledge Base for TBSP on Google Cloud Platform, Principal Author
+  https://knowledge.tymlez.com/tbsp-on-gcp (no longer available)
 
 
-## Occupation
+## IT Knowledge
 
-`1600`
-__Royal Mint__, London
+`Content Management Systems`
+Hubspot, WordPress, IXIASOFT DITA CMS, Confluence
 
-- Warden
-- Minted coins
+`Doc formats`
+Markdown, reStructured Text, XML, LaTeX
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`API docs`
+Swagger UI, Postman
 
+`Video/infographics`
+Figma, Camtasia, DaVinci, Figjam
+
+`Other`
+IntelliJ IDE, Visual Studio Code, Git (rudimentary knowledge), JIRA ticketing, Confluence Wiki
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
+
+
 
 
