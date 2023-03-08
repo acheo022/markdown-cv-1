@@ -7,7 +7,7 @@ Technical Writer transforming technical concepts into understandable content
 
 <div id="webaddress">
 <a href="acheo022@uottawa.ca">acheo022@uottawa.ca</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://acheo022.github.io/markdown-cv-1/">CV on GitHub</a>
 </div>
 
 ## About me
