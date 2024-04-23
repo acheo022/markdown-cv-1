@@ -72,9 +72,9 @@ __Certificate - Translating Chinese into English, National Taiwan University__
 
 ## Selected Works
 
-`2021 to present`
+`2021 to 2024`
 - Onboarding videos (voiceover, script and content) : https://onboarding.movingimage.com/
-- Release notes and documentation: https://doc.movingimage.com/
+- Release notes and documentation: https://help.movingimage.com/
 
 `2019 to 2020`
 - Knowledge Base for TBSP on Google Cloud Platform, Principal Author
