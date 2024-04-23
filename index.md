@@ -14,22 +14,26 @@ Technical Writer transforming technical concepts into understandable content
 
 Language Matters!
 
-Communicator with extensive editing experience, proponent of plain language.
+Communicator with extensive editing experience, proponent of plain language. Experience with SaaS and enterprise software.
 Strives for a clear, effective and succinct writing style to ensure complex concepts are accessible and understandable.
 
 ## Experienced in
 
-Creating how-to videos, end-user documentation, release notes, translation.
+Creating how-to videos, API documentation, end-user documentation, release notes, translation.
 Currently also working on creating UX copy and designing a documentation portal at work
 
 ## Selected professional experience
 
-`2021 - present`
+`2021 - 2024`
 __Technical Writer, <u>movingimage EVP GmbH</u>__
+- Active collaboration with product managers and developers to create interactive API documentation, end-
+user documentation, release notes, UI copy, how-to videos (with voiceovers), and translations into German
+- Verified documentation accuracy by testing it against live applications.
+- Utilized dashboards to monitor the health and progress of applications in both production and development environments.
 
 `2018 - 2021`
 __Blockchain Technical Writer, <u>Tymlez BV</u>__
-- drafted and updated customer-facing  product manuals, including installation, development and user guides
+- drafted and updated customer-facing product manuals, including installation, development and user guides
 - created an entire knowledge base for a specific Google Cloud Platform solution
 - improved existing  wiki articles and developer readme’s
 - worked with docs as code approach
